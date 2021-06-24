@@ -7,8 +7,10 @@ In the horizontal menu bar at the top of this page, click on the “Issues” op
 Choose the green “New Issue” button at right.
 Next to “Bug report” choose “Get started”.
 Fill in the title and contents of your issue.
-In the right side-menu, adjust the labels as appropriate, but leave the other options.
+In the right side-menu, adjust the labels as appropriate, but leave the other options as they are.
 Click “Submit new issue” when you’re ready.
 Issues submitted here will all be addressed by Rubin staff.
+
+Thank you very much for using GitHub issues! The feedback provided by delegates is an integral part of our DP0 goals. 
 
 For general questions about DP0 please visit http://community.lsst.org/.
