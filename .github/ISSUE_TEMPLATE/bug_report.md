@@ -2,8 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG] "
-labels: RSP Authentication, RSP Documentation, RSP Notebook, RSP Other, RSP Portal,
-  RSP VO
+labels: ''
 assignees: ''
 
 ---
