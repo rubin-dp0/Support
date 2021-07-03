@@ -2,8 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[SUGGESTION]"
-labels: RSP Authentication, RSP Documentation, RSP Notebook, RSP Other, RSP Portal,
-  RSP VO
+labels: ''
 assignees: ''
 
 ---
