@@ -14,3 +14,5 @@ Issues submitted here will all be addressed by Rubin staff.
 Thank you very much for using GitHub issues! The feedback provided by delegates is an integral part of our DP0 goals. 
 
 For general questions about DP0 please visit http://community.lsst.org/.
+
+For DP0.1, see also the Troubleshooting Tips: https://dp0-1.lsst.io/data-access-analysis-tools/index-nb-intro.html#troubleshooting-tips.
