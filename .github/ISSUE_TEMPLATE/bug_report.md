@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **URL**
-If applicable, cut and paste the URL from your browser at which the issue occured
+If applicable, cut and paste the URL from your browser at which the issue occurred
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
