@@ -1,5 +1,16 @@
 # Support
 
+**THIS REPO IS NOW DEPRECATED**
+
+Please open a new topic in the Support category of the Rubin Community Forum to report issues:
+https://community.lsst.org/
+
+<br>
+<br>
+<br>
+
+## Old version
+
 DP0 delegates should please submit GitHub Issues to, for example, report bugs or persistent technical issues, request assistance from Rubin staff, and provide software-specific feedback about the Rubin Science Platform.
 
 **Instructions:**
